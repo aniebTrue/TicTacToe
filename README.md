@@ -1,1 +1,1 @@
-TicTacToeApp
+TicTacToe
